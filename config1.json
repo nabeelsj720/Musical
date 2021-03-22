@@ -1,0 +1,28 @@
+{
+    
+    "url" : "https://yourquote.allianzmusicalinsurance.co.uk/ami/instrument/yourInstrument.faces",
+    "Instrument Category" : "Brass",
+    "Instrument Type" : "Cornet",
+    "Value" : "1000",
+    "Cover" : "0",
+    "Title" : "Mr",
+    "Surname" : "Test",
+    "Email address" : "test@gmail.com",
+    "Telephone number" : "0123456789",
+    "Cover start day" : "21",
+    "Cover start month" : "March",
+    "Cover start year" : "2021",
+    "PLPA" : "4",
+    "Forename" : "Test",
+    "Day of Birth": "01",
+    "Month of Birth": "January",
+    "Year of Birth" : "1970",
+    "Postcode" : "GU12PD",
+    "Make and model" : "test01",
+    "Serial number" : "112",
+    "Instrument kept in address provided" : "1", 
+    "driver_path" : "E:/python/chromedriver_win32(latest)/chromedriver"
+}
+
+
+
